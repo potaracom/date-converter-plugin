@@ -5,7 +5,7 @@
 # 詳細
 
 以下の URL をご確認ください。  
-https://qiita.com/potara/items/a3f18fc9185e638c2758
+https://potara.net/plugin/date-converter/
 
 # 利用方法
 
@@ -22,3 +22,9 @@ https://qiita.com/potara/items/a3f18fc9185e638c2758
 
 ライセンス更新作業の完了をメールで連絡します。  
 その後、プラグイン設定を再保存していただくことで有効期限以降も利用できるようになります。
+
+# 更新情報
+- 2020/9/11 v2 リリース  
+  テーブル内のフィールドに対応しました
+  
+- 2019/9/19 v1 リリース
